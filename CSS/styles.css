@@ -1,0 +1,60 @@
+/* styles.css */
+
+/* Estilos para el encabezado */
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.profile h2 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+}
+
+.profile h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #666;
+}
+
+main {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.project {
+    margin-bottom: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.project h3 {
+    margin-top: 10px;
+}
+
+.project p {
+    color: #666;
+}
+
+.project a {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #333;
+    color: #fff;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+}
